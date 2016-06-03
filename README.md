@@ -1,2 +1,2 @@
 # bricksplayer
-remember the game you played when you are young? It looks just like that.
+remember the game you played when you were young? It looks just like that.
